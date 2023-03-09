@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap, Sass & PHP
 - 🌱 I’m currently learning ... Cybersecurity
 - 👯 I’m looking to collaborate on ...Full Stack developer
-- 💬 Ask me about ... HTML, CSS, JS, Bootstrap, SASS, PHP & LARAVEL
+- 💬 Ask me about ... HTML, CSS, JS, Bootstrap, SASS, PHP, LARAVEL, Reactjs & Nodejs
 - 📫 How to reach me: sumansaurabh1383@gmail.com
 - ⚡ Fun fact: ... I'm Funny
 
